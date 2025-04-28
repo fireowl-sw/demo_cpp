@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/fireowl/Documents/a_cpp_workspcae/demo_cpp/build",
+  "command": "/usr/bin/clang++  -I/Users/fireowl/Documents/a_cpp_workspcae/demo_cpp/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/firewol.dir/src/main.cpp.o -c /Users/fireowl/Documents/a_cpp_workspcae/demo_cpp/src/main.cpp",
+  "file": "/Users/fireowl/Documents/a_cpp_workspcae/demo_cpp/src/main.cpp",
+  "output": "CMakeFiles/firewol.dir/src/main.cpp.o"
+}
+]
